@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "Animately", "animately\src\Animately.cppproj", "{C0F765E0-CD6B-45B8-8B9D-F72F4F09FE41}"
+EndProject
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "FuseBoxControl", "FuseBoxControl\FuseBoxControl.cppproj", "{DCE6C7E3-EE26-4D79-826B-08594B9AD897}"
+EndProject
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "ArduinoCore", "ArduinoCore\ArduinoCore.cppproj", "{5A1DEDD0-FAFD-4768-8B28-0CA4D5FDE1A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0F765E0-CD6B-45B8-8B9D-F72F4F09FE41}.Debug|AVR.ActiveCfg = Debug|AVR
+		{C0F765E0-CD6B-45B8-8B9D-F72F4F09FE41}.Debug|AVR.Build.0 = Debug|AVR
+		{C0F765E0-CD6B-45B8-8B9D-F72F4F09FE41}.Release|AVR.ActiveCfg = Release|AVR
+		{C0F765E0-CD6B-45B8-8B9D-F72F4F09FE41}.Release|AVR.Build.0 = Release|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.ActiveCfg = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.Build.0 = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.ActiveCfg = Release|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.Build.0 = Release|AVR
+		{5A1DEDD0-FAFD-4768-8B28-0CA4D5FDE1A2}.Debug|AVR.ActiveCfg = Debug|AVR
+		{5A1DEDD0-FAFD-4768-8B28-0CA4D5FDE1A2}.Debug|AVR.Build.0 = Debug|AVR
+		{5A1DEDD0-FAFD-4768-8B28-0CA4D5FDE1A2}.Release|AVR.ActiveCfg = Release|AVR
+		{5A1DEDD0-FAFD-4768-8B28-0CA4D5FDE1A2}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+[submodule "animately"]
+	path = animately
+	url = git@github.com:nickkoza/animately.git
